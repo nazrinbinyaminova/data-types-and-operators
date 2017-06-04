@@ -1,0 +1,10 @@
+Her proqram icinde bezi emeliyyatlar aparilir ki, bunlar da operatorlar vasitesile heyata kecririlir.
+3 cur operator var:
+-riyazi operatorlar;
+-muqayise operatorlari;
+-mentiqi operatorlar.
+Riyazi operatorlara toplama +, cixma -, bolme /, vurma *, qaliq qaytarma % daxildir.
+Muqayise operatorlarina boyuk >, kicik <, beraberdirmi ==, beraber deyil !=, boyuk beraber >= ve kicik beraber <= aiddir.
+Mentiqi operatorlar And &&, Or ||, Not ! aiddir.
+And operatorunda en az bir sert odenmezse umumi netice odenmir. Or operatorunda hec olmasa bir sert odenerse o zaman netice
+odenir. Not verilmis serti inkara cevirir.
